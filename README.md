@@ -25,7 +25,8 @@ A sleek and responsive feedback/comment form built using React and Formik. Users
 
 ## 🚀 Demo
 
-🔗 [Live Demo on GitHub Pages](https://your-username.github.io/react-feedback-form)
+🔗 [Live Demo on GitHub Pages] (https://prasad-hg.github.io/react-feedback-form/)
+
 
 ---
 
